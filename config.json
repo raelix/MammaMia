@@ -4,10 +4,10 @@
              "domain": "computer"
          },
          "Filmpertutti": {
-             "domain": "diy"
+             "domain": "team"
          },
          "Tantifilm":{
-             "domain": "bond"
+             "domain": "name"
          },
          "Mysterius":{
              "enabled": "1"    
@@ -22,7 +22,7 @@
             "domain":"so"
         },
         "SkyStreaming":{
-            "domain":"guru"
+            "domain":"my"
         },
         "DaddyLiveHD":{
             "enabled":"1"
