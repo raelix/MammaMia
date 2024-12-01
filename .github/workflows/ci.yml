@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: raelix/mammamia:latest
+          tags: ghcr.io/raelix/mammamia:latest
